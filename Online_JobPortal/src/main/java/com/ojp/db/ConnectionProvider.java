@@ -14,7 +14,7 @@ public class ConnectionProvider {
 				Class.forName("com.mysql.cj.jdbc.Driver");
 				String url = "jdbc:mysql://localhost:3306/online_jobportal";
 				String name = "root";
-				String password = "SAmi2253&";
+				String password = "root";
 				// create a connection
 				con = DriverManager.getConnection(url, name, password);
 			}
