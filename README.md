@@ -6,6 +6,7 @@ Online Job Portal</h1><br>
 </p>
 <div>
     <h3>Features</h3>
+    The application is divided into two main panels: Admin Panel and User Panel,each with its distinct functionalities.
      <h5>Admin Panel:</h5>
     <ul>
             <li><strong>Job Posting:</strong> Admins can create job listings, specifying details such as job title, description, category, and location.</li>
